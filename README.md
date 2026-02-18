@@ -8,3 +8,8 @@ Programa en python para jugar piedra papel o tijera contra el computador
 - este comando nos permite que cualquier palbara que se escriba en mayuscula se pase automaticamente en minuscula, sin este comando se tendria que especificar que si o si se tiene que escribir en mayuscula lo cual no seria tn comodo para los jugadores
 ## Diagrama de flujo
 ![alt text](image.png)
+
+## Pero pur ultimo y no menos importante
+![alt text](algunos-memes-de-maduro-capturado-ya-se-que-esta-imagen-es-v0-d335rj33w8bg1.png)
+## mi reaccion 
+![alt text](-207711971.png)
