@@ -7,3 +7,4 @@ Programa en python para jugar piedra papel o tijera contra el computador
 #### "texto.lower()"
 - este comando nos permite que cualquier palbara que se escriba en mayuscula se pase automaticamente en minuscula, sin este comando se tendria que especificar que si o si se tiene que escribir en mayuscula lo cual no seria tn comodo para los jugadores
 ## Diagrama de flujo
+![alt text](image.png)
